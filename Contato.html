@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style_contato.css">
+
+    <title>InovaByte - Consultoria</title>
+</head>
+<body>
+    <!-- Cabeçalho da página -->
+    <header>
+        <div class="logo">
+            <!-- Logo da empresa -->
+            <img src="img/logo.png" alt="InovaByte Logo">
+                
+            <!-- Texto ao lado do logo -->
+            <div class="texto">
+                <h1>INOVABYTE</h1> <!-- Nome da empresa -->
+                <span class="subtitulo">TECHNOLOGY COMPANY</span> <!-- Slogan ou categoria -->
+            </div>
+        </div>
+        <!-- Menu de navegação -->
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li> <!-- Link para a página inicial -->
+                <li><a href="#servicos">Serviços</a></li> <!-- Link para a seção de serviços -->
+                <li><a href="#sobre">Sobre nós</a></li> <!-- Link para a seção "Sobre nós" -->
+                <li><a href="#contato">Contato</a></li> <!-- Link para a seção de contato -->
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <form action="Cadastro">
+            <h1>CADASTRE-SE</h1>
+
+            <div class="botao">
+                <button>Já sou cliente</button>
+            </div>
+
+            <div class="informaçoes">
+                <label for="nome">Nome Completo *</label>
+                <input 
+                    type="text"
+                    name="nome"
+                    id="nome"
+                    required
+                    placeholder="Seu nome"
+                />
+
+                <label for="email">E-mail Corporativo *</label>
+                <input 
+                    type="email"
+                    name="email"
+                    id="email"
+                    required
+                    placeholder="exemplo@dominio.com"
+                />
+            </div>
+
+            <div class="informaçoes 2">
+                <label for="telefone">Número para contato*</label>
+                <input
+                  type="tel"
+                  name="telefone"
+                  id="telefone"
+                  placeholder="(xx) xxxx-xxxx"
+                />
+            </div>
+            
+
+        </form>
+    </div>
+
+
+</body>
+</html>
