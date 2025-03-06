@@ -1,0 +1,362 @@
+/* Importando a fonte Orbitron do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+/* Estilo para o corpo da página */
+body {
+    background-color: #0a0a23; /* Define a cor de fundo como um tom escuro */
+    color: #ffffff; /* Define a cor do texto como branca */
+    font-family: 'Orbitron', sans-serif; /* Aplica a fonte Orbitron ao texto */
+    margin: 0; /* Remove as margens padrão da página */
+    padding: 0; /* Remove os preenchimentos padrão da página */
+    text-align: center; /* Centraliza o texto dentro do body */ 
+} 
+
+/* Estilo para o cabeçalho da página */
+header {
+    display: flex; /* Usa flexbox para organizar os elementos */
+    justify-content: space-between; /* Distribui os itens com espaço entre eles */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    padding: 20px; /* Adiciona espaçamento interno ao cabeçalho */
+    background: #0a0a2359; /* Mantém a cor de fundo igual à do body */
+}
+
+/* Estilização da seção de texto dentro do header */
+.texto {
+    display: flex; /* Usa flexbox */
+    flex-direction: column; /* Organiza os itens em uma coluna */
+    align-items: center; /* Centraliza os itens */
+}
+
+/* Estilização do título principal (h1) */
+h1 {
+    margin: 0; /* Remove margem para evitar espaçamento extra */
+    font-size: 28px; /* Define o tamanho da fonte */
+    font-family: "Bruno Ace", serif;
+
+}
+
+/* Estilo para o subtítulo do header */
+.subtitulo {
+    font-size: 10px; /* Define um tamanho pequeno para o subtítulo */
+    color: aqua; /* Define a cor do texto como ciano */
+    margin-top: 5px; /* Adiciona um pequeno espaçamento superior */
+
+}
+
+/* Estilização do contêiner da logo */
+.logo {
+    display: flex; /* Usa flexbox */
+    align-items: center; /* Alinha os elementos verticalmente */
+}
+
+/* Estilo da imagem dentro da logo */
+.logo img {
+    width: 60px; /* Define a largura da imagem */
+    margin-right: 10px; /* Adiciona um espaçamento à direita da imagem */
+
+}
+
+/* Estilo da lista de navegação */
+nav ul {
+    list-style: none; /* Remove os marcadores de lista */
+    display: flex; /* Usa flexbox para organizar os itens horizontalmente */
+    gap: 20px; /* Define um espaçamento entre os itens da lista */
+}
+
+/* Estilização dos links da navegação */
+nav ul li a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: whitesmoke; /* Define a cor do texto como ciano */
+    font-weight: bold; /* Deixa o texto em negrito */   
+    font-size: 18px;  /* Define o tamanho das letras*/
+    padding: 10px;
+    
+}
+
+nav ul li a:hover {
+    border-bottom: 2px solid cyan; /* Efeito ao passar o mouse */
+
+}
+
+/* Estilização do conteúdo principal */
+#home {
+    padding: 50px 20px; /* Cria espaço interno da seção */
+    text-align: center; /* Alinha o texto no centro*/
+    min-height: 150vh; /* Define o tamanho da seção */
+}
+.texthome{
+    font-family: "Open Sans", serif ;
+    align-items: center;
+    padding: 50px;
+
+}
+
+
+
+.caixatexto1{
+    background-color: rgba(70, 131, 180, 0.562) ;
+    padding: 30px;
+    border-radius: 5%;
+    width: 400px;
+    font-family: "Open Sans", serif ;
+}
+
+.caixatexto2{
+    background-color: rgba(70, 131, 180, 0.562) ;
+    padding: 30px;
+    border-radius: 5%;
+    width: 400px;
+    font-family: "Open Sans", serif ;
+}
+
+
+
+/* Estilo para títulos secundários (h2) */
+#inicial {
+    font-size: 30px; /* Define o tamanho da fonte */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    text-shadow: 0 0 10px #00ffff; /* Adiciona uma sombra ciano ao texto */
+}
+
+/* Estilo das seções */
+section {
+    padding: 50px 20px; /* Cria espaço interno da seção */
+    text-align: center; /* Alinha o texto no centro*/
+    min-height: 60vh; /* Define o tamanho da seção */
+}
+
+/* Estilo da seção Serviços */
+#servicos {
+    background: #0a0a23;
+    padding: 50px 20px; /* Cria espaço interno da seção */
+    text-align: center; /* Alinha o texto no centro*/
+    min-height: 100vh; /* Define o tamanho da seção */
+
+}
+
+.topo_serv {
+    text-align: start;
+    margin-left: 50px; /* Adiciona um espaçamento à esquerda do texto */
+}
+.topo_serv p{
+    font-size: 25px;
+}
+
+.topo_serv h2 {
+    font-family: "Poppins", serif;
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */ 
+    font-size: 40px;
+    border-bottom: 2px solid cyan;
+    width: 140px;
+    
+}
+
+.topo_serv p , h4 {
+    font-family: "Poppins", serif;
+    width: 750px;
+}
+
+.ts_serv{
+    font-size: 25px;
+    font-family: "Open Sans", serif;
+}
+
+.servicos-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+/* Arrumando posiçoes dos serviços*/
+/* serviço da esquerda linha 1*/
+.servico1{
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5); 
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-left: 200px ;
+
+
+
+}
+/*serviço centralizado linha 1*/
+.servico2{
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    align-items: center;
+
+
+
+
+
+}
+.servico3{
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-right: 200px ;
+
+
+
+
+}
+.servico4{
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-left: 450px ;
+
+
+
+
+
+}
+.servico5{
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-right: 450px ;
+
+
+
+
+}
+
+
+#sobre{
+    display: flex;
+    
+}
+
+.coluna {
+    flex: 1; /* Faz cada coluna ter o mesmo tamanho */
+    padding: 10px;
+  }
+
+.coluna p{
+    font-family: "Open Sans", serif; /* Fonte do texto da coluna 2 do lado direito */
+    text-align: left;
+    font-size: 25px;
+}
+.coluna h2{
+    font-family: "Poppins", serif;
+    
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 40px;
+    border-bottom: 2px solid cyan;
+    width: 230px;
+}
+
+
+
+
+
+/* Estilização dos botões fixos na tela */
+.btn {
+    position: fixed; /* Mantém o botão fixo na tela */
+    bottom: 20px; /* Posiciona o botão a 20px do rodapé */
+    right: 20px; /* Posiciona o botão a 20px da lateral direita */
+    background-color: #00ffff; /* Define a cor de fundo do botão como ciano */
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5); /* Adiciona uma sombra ciano */
+    color: black; /* Define a cor do texto como preto */
+    padding: 6px 40px; /* Adiciona espaçamento interno */
+    border: none; /* Remove a borda do botão */
+    text-decoration: none; /* Remove o sublinhado do botão */
+    border-radius: 25px; /* Deixa as bordas arredondadas */
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-family: "Open Sans", serif; /* Define a fonte do botão */
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+.btn:hover {
+    border: solid 2px white;/* Cor da borda ao passar o cursor*/
+}
+
+/* Estilo do rodapé da página */
+footer {
+    margin-top: 50px; /* Adiciona espaçamento superior */
+    padding: 20px; /* Adiciona espaçamento interno */
+}
+
+/* Estilo para a entrada de redes sociais fixa na tela */
+.social-input {
+    position: fixed; /* Mantém o elemento fixo na tela */
+    bottom: 20px; /* Posiciona a 20px do rodapé */
+    left: 20px; /* Posiciona a 20px da lateral esquerda */
+    display: flex; /* Usa flexbox */
+    align-items: center; /* Alinha os itens verticalmente */
+    background: #00ffff; /* Define a cor de fundo como ciano */
+    border-radius: 25px; /* Bordas arredondadas */
+    padding: 1px 10px; /* Adiciona espaçamento interno */
+   box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5); /* Adiciona uma sombra ciano */
+    width: 100px; /* Define uma largura fixa */
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+}
+ 
+/* Estilo dos ícones dentro do social input */
+.icons {
+    display: flex; /* Usa flexbox */
+    justify-content: center; /* Centraliza os ícones */
+    gap: 12px; /* Define um espaçamento entre os ícones */
+    align-items: center; /* Alinha os ícones ao centro */
+    width: 81%; /* Garante que os ícones fiquem distribuídos dentro do contêiner */
+}
+
+/* Estilização das imagens dos ícones */
+.icons img {
+    width: 20px; /* Define a largura dos ícones */
+    height: 20px; /* Define a altura dos ícones */
+    transition: transform 0.3s; /* Adiciona um efeito de transição */
+}
+
+/* Efeito ao passar o mouse sobre os ícones */
+.icons img:hover {
+    transform: scale(1.2); /* Aumenta o tamanho do ícone */
+}
+
+/* Ajustes no input dentro do social-input */
+.social-input input {
+    background: none; /* Remove o fundo do input */
+    border: none; /* Remove a borda do input */
+    font-size: 16px; /* Define o tamanho da fonte */
+    padding: 5px; /* Adiciona espaçamento interno */
+    outline: none; /* Remove a borda de foco */
+    flex-grow: 1; /* Permite que o input ocupe o espaço disponível */
+    width: 100%; /* Ocupa toda a largura disponível */
+    padding: 6px 40px; /* Adiciona espaçamento interno */
+}
+
+/* Posicionamento dos ícones dentro do input */
+.social-input .icons {
+    position: absolute;
+    left: 10px;
+}
+
+/* Ajusta o espaçamento do input para evitar sobreposição dos ícones */
+.social-input input {
+    padding-left: 50px;
+}
+
