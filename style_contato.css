@@ -83,5 +83,113 @@ nav ul li a:hover {
 
 h1{
     border-bottom: 2px solid cyan;
+}
+
+form {
+    margin: auto; /* define a margem automatica */
+    width: 800px;
+    padding: 50px;
+    border-radius: 15px; /* arredondar as bordas */
+}
+
+label{
+    display: block;
+    margin-bottom: 20px; 
+    padding: 1%;
+    margin-top: 20px;
+}
+
+div.email, div.telefone {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+div.email div, div.telefone div {
+    width: 48%;
+    margin-bottom: 20px;
+}
+
+div.email label, div.telefone label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+div.email input, div.telefone input {
+    width: 100%;
+}
+
+.botao{
+    background: rgb(135,212,206);
+    background: linear-gradient(90deg, rgba(135,212,206,1) 0%, rgba(142,142,182,1) 35%, rgba(91,186,205,1) 100%);
+    padding: 5px 20px;
+    border: none;
+    border-radius: 60px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.botao2{
+    color: black;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 60px;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.tudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.tudo input{
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    width: 50px;
+    background-color: #d8fdfc;
+}
+
+p{
+    font-size: 15px;
+    margin:100px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.nome{
+    margin-right: 10px;
+}
+
+
+.tudo input:hover{
+    background-color: white;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.31s;
     
+}
+
+.botao2:hover{
+    background: rgb(135,212,206);
+    background: linear-gradient(90deg, rgba(135,212,206,1) 0%, rgba(142,142,182,1) 35%, rgba(91,186,205,1) 100%);
+    color: black;
+    overflow: hidden;
+    transition: all 0.3s;
+    letter-spacing: 0.1em;
+}
+
+.botao:hover{
+    overflow: hidden;
+    transition: all 0.3s;
+    letter-spacing: 0.1em;
 }
