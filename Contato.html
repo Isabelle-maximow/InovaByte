@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style_contato.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
+
+    <title>InovaByte - Consultoria</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="img/logo.png" alt="InovaByte Logo">  
+            <div class="texto">
+                <h1>INOVABYTE</h1>
+                <span class="subtitulo">TECHNOLOGY COMPANY</span>
+            </div>
+        </div>
+        
+        <nav>
+            <ul>
+                <li><a href="./index.html">Home</a></li> 
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <form action="Cadastro">
+            <h1>CADASTRE-SE</h1>
+
+            <div >
+                <button class="botao">Já sou cliente</button>
+            </div>
+            <div class="tudo">
+                <div class="email">
+                    <label for="nome">Nome Completo *</label>
+                    <input step="0.02"
+                    class="nome"
+                        type="text"
+                        name="nome"
+                        id="nome"
+                        required
+                        placeholder="Seu nome"
+                    />
+
+                    <label for="email">E-mail Corporativo *</label>
+                    <input class="nome"
+                        type="email"
+                        name="email"
+                        id="email"
+                        required
+                        placeholder="exemplo@dominio.com"
+                    />
+                </div>
+
+                <div class="telefone">
+                    <label class="nome" for="telefone">Número para contato*</label>
+                    <input class="nome"
+                    type="tel"
+                    name="telefone"
+                    id="telefone"
+                    placeholder="(xx) xxxx-xxxx"
+                    />
+                    
+                    <label class="nome" for="empresa">Nome da Empresa *</label>
+                    <input class="nome"
+                        type="text"
+                        name="empresa"
+                        id="empresa"
+                        required
+                        placeholder="Nome da empresa"
+                    />
+                    
+                </div>
+            </div>
+                <div>
+                    <input class="botao2" type="submit" name="Enviar" value="Enviar"/>  <!-- botao de enviar -->
+                </div>
+        </form>
+        <p>Após concluir o cadastro, você receberá um e-mail com mais informações
+             e o próximo passo para dar continuidade ao atendimento. 
+            <br>Fique atento à sua caixa de entrada!</p>
+    </div>
+
+
+</body>
+</html>

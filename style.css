@@ -1,0 +1,618 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+    background-color: #0a0a23;
+    color: #ffffff;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #0a0a2359;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    /* Organiza os itens em uma coluna */
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    font-family: "Bruno Ace", serif;
+
+}
+
+.subtitulo {
+    font-size: 10px;
+    color: aqua;
+    margin-top: 5px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 60px;
+    margin-right: 10px;
+}
+
+
+
+nav ul {
+    list-style: none;
+    /* Remove os marcadores de lista */
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    /* Deixa o texto em negrito */
+    font-size: 18px;
+    padding: 10px;
+}
+
+nav ul li a:hover {
+    border-bottom: 2px solid cyan;
+    /* Efeito ao passar o mouse */
+
+}
+
+#home {
+    padding: 50px 20px;
+    text-align: center;
+    min-height: 90vh;
+    /* Define o tamanho da seção */
+}
+
+.home_coluns {
+    display: flex;
+}
+
+#texthome {
+    font-family: "Open Sans", serif;
+    width: 1000px;
+    font-size: 25px;
+    align-items: center;
+}
+
+.colunacaixatexto {
+    flex: 1;
+    /* Faz cada coluna ter o mesmo tamanho */
+    padding: 10px;
+}
+
+.caixatexto1 {
+    background-color: rgba(70, 131, 180, 0.562);
+    padding: 20px;
+    border-radius: 20px;
+    width: 450px;
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    text-align: start;
+    margin-left: 300px;
+}
+
+.caixatexto2 {
+    background-color: rgba(70, 131, 180, 0.562);
+    padding: 20px;
+    border-radius: 20px;
+    width: 450px;
+    margin-top: 200px;
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    text-align: start;
+    margin-left: 30px;
+}
+
+#inicial {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px #00ffff;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+    min-height: 60vh;
+}
+
+#servicos {
+    background: #0a0a23;
+    padding: 50px 20px;
+    text-align: center;
+    min-height: 115vh;
+}
+
+.topo_serv {
+    text-align: start;
+    margin-left: 50px;
+}
+
+.topo_serv p {
+    font-size: 25px;
+}
+
+.topo_serv h2 {
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    border-bottom: 2px solid cyan;
+    width: 140px;
+}
+
+.topo_serv p,
+h4 {
+    font-family: "Poppins", serif;
+    width: 750px;
+}
+
+.ts_serv {
+    font-size: 25px;
+    font-family: "Open Sans", serif;
+}
+
+.servicos-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.servico1 {
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-left: 200px;
+}
+
+.servico2 {
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    align-items: center;
+}
+
+.servico3 {
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-right: 200px;
+}
+
+.servico4 {
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-left: 450px;
+}
+
+.servico5 {
+    background: #330066;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    font-family: "Open Sans", serif;
+    border: 2px solid #0a0a23;
+    margin-right: 450px;
+}
+
+#sobre {
+    display: flex;
+}
+
+.coluna {
+    flex: 1;
+    padding: 10px;
+}
+
+.coluna p {
+    font-family: "Open Sans", serif;
+    text-align: left;
+    font-size: 25px;
+}
+
+.coluna h2 {
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 40px;
+    border-bottom: 2px solid cyan;
+    width: 230px;
+}
+
+#divisao {
+    display: flex;
+}
+
+.missao {
+    flex: 1;
+    padding: 10px;
+}
+
+.missao {
+    font-family: "Open Sans", serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.missao {
+    inline-size: auto
+}
+
+
+.linha-vertical {
+    background-color: cyan;
+    width: 2px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.missao p {
+    font-family: "Open Sans", serif;
+    text-align: left;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.missao h2 {
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+#h2feedback {
+    text-align: left;
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    font-size: 40px;
+
+}
+
+.feed {
+    display: flex;
+    background-color: #1a0145;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    justify-content: center;
+    gap: 120px;
+    flex-wrap: wrap;
+    height: 400px;
+
+}
+
+.card {
+    background-color: #1a0145;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+    margin-top: 25px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.card img {
+    width: 185px;
+    height: 185px;
+    border-radius: 50%;
+    background-color: black;
+    padding: 5px;
+}
+
+.card h3 {
+    margin: 0;
+    font-size: 25px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card button {
+    background-color: #1e90ff;
+    border: none;
+    padding: 10px 22px;
+    color: white;
+    font-weight: bold;
+    border-radius: 21px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.card button:hover {
+    background-color: #0c64c1;
+}
+
+#h2feedback {
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 40px;
+    border-bottom: 2px solid cyan;
+    width: 165px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #576eb4;
+    padding: 20px;
+    border-radius: 40px;
+    width: 550px;
+    height: 400px;
+    z-index: 10;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.modal-logo {
+    width: 93px;
+    height: 93px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    object-fit: cover;
+    background-color: black;
+}
+
+.modal-superior {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-family: "Open Sans", serif;
+    color: black;
+}
+
+.modal-superior p {
+    width: 400px;
+}
+
+.modal-superior button {
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 50%;
+    font-size: 24px;
+}
+
+.modal-interno {
+    background-color: #86a7d1;
+    padding: 15px;
+    border-radius: 40px;
+    width: 500px;
+    height: 250px;
+    font-family: "Open Sans", serif;
+    color: black;
+}
+
+.modal-interno p {
+    margin: 75px 0;
+}
+
+.estrelas {
+    margin-top: 10px;
+    color: gold;
+    text-align: center;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 5;
+}
+
+/* Estilização dos botões fixos na tela */
+.btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #00ffff;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    color: black;
+    padding: 6px 40px;
+    border: none;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-family: "Open Sans", serif;
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+.btn:hover {
+    border: solid 2px white;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+
+.social-input {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    background: #00ffff;
+    border-radius: 25px;
+    padding: 1px 10px;
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
+    width: 100px;
+    justify-content: flex-start;
+}
+
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    align-items: center;
+    width: 81%;
+}
+
+.icons img {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.3s;
+}
+
+.icons img:hover {
+    transform: scale(1.2);
+}
+
+
+.social-input input {
+    background: none; 
+    border: none;
+    font-size: 16px;
+    padding: 5px;
+    outline: none;
+    flex-grow: 1; 
+    width: 100%;
+    padding: 6px 40px;
+}
+
+
+.social-input .icons {
+    position: absolute;
+    left: 10px;
+}
+
+.social-input input {
+    padding-left: 50px;
+}
+
+.telas {
+    display: flex; /* Alinha os elementos em linha */
+    gap: 40px; 
+    padding: 30px;
+    justify-content: center; 
+    flex-wrap: wrap; /* Permite quebra de linha, se necessário */
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.89);
+    display: flex; 
+}
+.coluna-servicos {
+    display: flex;
+    flex-direction: column; /* Alinha o título e a coluna verticalmente */
+    align-items: center; 
+}
+.coluna-contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cabecalho {
+    font-family: "Open Sans", serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+.endereço {
+    text-align: left;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px; 
+    font-family: "Open Sans", serif;
+    color: white; 
+    border: 2px solid #0a0a23;
+    flex-shrink: 0; /* Impede que a div encolha */
+}
+
+.telas_borda {
+    text-align: left;
+    background: #1e0064;
+    padding: 30px;
+    gap: 30px;
+    border-radius: 8px;
+    width: 300px; 
+    min-height: 150px; 
+    font-family: "Open Sans", serif;
+    color: white;
+    border: 2px solid #0a0a23;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    text-align: center; 
+    line-height: 1.8; /* Aumenta o espaçamento entre as linhas */
+}
+.telas_borda > * {
+    flex: 1; /* Faz os elementos filhos ocuparem o espaço disponível */
+}
+.icone_email{
+    position: relative;
+    top: -10px;
+    
+}
+
+.textos{
+    margin-bottom: 38px;
+    text-align: left;
+}
+
+.footer-text {
+    text-align: center; 
+    margin-top: 20px; 
+    font-size: 14px; 
+    color: white; 
+    font-family: "Open Sans", serif;
+}
+
+.footer{
+    background-color: black;
+}
+
+.textos {
+    margin-bottom: 38px;
+    text-align: left;
+    line-height: 2; /* Aumenta o espaçamento entre as linhas */
+}
