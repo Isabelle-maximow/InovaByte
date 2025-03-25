@@ -42,7 +42,7 @@ Durante o processo, conseguimos compreender melhor como cada uma dessas ferramen
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de @isabelle.l.ferreira6@aluno.senai
+Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l.ferreira6@aluno.senai
 
 
 ## Documentação
