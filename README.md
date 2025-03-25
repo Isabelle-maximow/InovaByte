@@ -26,7 +26,7 @@ Sobre Nós:
 
 
 Missão Visão e Valor:
-![App Screenshot](IMG/IMG2.png)
+![App Screenshot](IMG/IMG6.png)
 
 Cadastrar-se: 
 ![App Screenshot](IMG/CADASTRE-SE.png)
