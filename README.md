@@ -3,9 +3,9 @@
 A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção de soluções tecnológicas inovadoras. 
 
 
-
-![Logo](inovabyte.png)
-
+<p align="center">
+  ![Logo](inovabyte.png)
+</p>
 
 ##  SERVIÇOS
 
