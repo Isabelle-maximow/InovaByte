@@ -13,7 +13,7 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 
 
 ## Mais do Projeto
-Página Inicial ao entrar so site:
+### Página Inicial ao entrar so site:
 ![App Screenshot](IMG/IMG2.png)
 
 ### Serviços:
