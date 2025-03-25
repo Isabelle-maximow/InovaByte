@@ -14,7 +14,7 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 
 ## Mais do Projeto
 
-![App Screenshot](jjk)
+![App Screenshot](IMG/IMG2.png)
 
 
 ## Processos para a construção
