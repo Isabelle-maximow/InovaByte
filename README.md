@@ -29,7 +29,7 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 
 Durante o processo, conseguimos compreender melhor como cada uma dessas ferramentas e tecnologias contribui para a criação e manutenção de um site dinâmico e funcional.
 
-- HTML (HyperText Markup Language): Começamos com a base do nosso site, utilizando HTML para estruturar as páginas. Aprendemos como organizar o conteúdo em seções, como cabeçalhos, parágrafos, listas e links. Cada elemento teve um papel importante para dar forma ao que vemos no navegador. A semântica também foi fundamental para tornar o código mais acessível e compreensível, usando tags como <header>, <footer>, <article> e outras.
+- HTML (HyperText Markup Language): Começamos com a base do nosso site, utilizando HTML para estruturar as páginas. Aprendemos como organizar o conteúdo em seções, como cabeçalhos, parágrafos, listas e links. Cada elemento teve um papel importante para dar forma ao que vemos no navegador. A semântica também foi fundamental para tornar o código mais acessível e compreensível, usando tags como header, footer, e outras.
 
 - CSS (Cascading Style Sheets): Depois, passamos para a parte visual com o CSS. Aprendemos como estilizar as páginas, definindo cores, fontes, espaçamentos, e organizando o layout usando propriedades como display, flexbox e grid. Descobrimos o poder do CSS para criar um design atrativo e funcional, e como ele se conecta diretamente com o HTML para dar vida ao conteúdo.
 
