@@ -21,6 +21,10 @@ Serviços:
 
 ![App Screenshot](IMG/IMG4.png)
 
+Sobre Nós:
+![App Screenshot](IMG/IMG5.png)
+
+
 Missão Visão e Valor:
 ![App Screenshot](IMG/IMG2.png)
 
