@@ -4,7 +4,7 @@ A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção 
 
 
 
-![Logo](https://www.canva.com/design/DAGdIbKHzNc/qA8P9uIDipNZZkEcUJFj6Q/view?utm_content=DAGdIbKHzNc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha79db1fe1f)
+![Logo](logoInovabyte.png)
 
 
 ##  SERVIÇOS
