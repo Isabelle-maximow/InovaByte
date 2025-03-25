@@ -1,4 +1,4 @@
-# INOVABYTE CONSULTORIA
+# INOVABYTE CONSULTORIA🏢
 
 A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção de soluções tecnológicas inovadoras. 
 
@@ -7,7 +7,7 @@ A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção 
   <img src="inovabyte.png" alt="Logo" width="300">
 </p>
 
-##  SERVIÇOS
+## 🧥 SERVIÇOS
 
 Seus serviços incluem cloud computing, inteligência artificial, análise de dados e cibersegurança, impulsionando a transformação digital e garantindo maior eficiência operacional. Com a aplicação dessas soluções, as empresas se tornam mais competitivas e preparadas para os desafios do mercado.
 
@@ -32,7 +32,7 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 ![App Screenshot](IMG/CADASTRE-SE.png)
 
 
-## Processos para a construção
+## 🚀 Processos para a construção
 
 - Prototipagem - Canva
 - Documentação - word e excel
@@ -40,7 +40,7 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 - Melhorias com Javascript
 
 
-## Aprendizados
+## 📖 Aprendizados
 
 Durante o processo, conseguimos compreender melhor como cada uma dessas ferramentas e tecnologias contribui para a criação e manutenção de um site dinâmico e funcional.
 
@@ -66,13 +66,13 @@ git clone [(https://github.com/Isabelle-maximow/InovaByte.git)]
 Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l.ferreira6@aluno.senai
 
 
-## Documentação
+##📜 Documentação
 
 Acesse aqui nossa documentação:
 [Documentação](https://link-da-documentação)
 
 
-## Autores
+## 👥Autores
 
 - [@Isabelle-maximow](https://github.com/Isabelle-maximow)
 - Julia Lopes
