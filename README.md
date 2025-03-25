@@ -19,7 +19,7 @@ Página Inicial ao entrar so site:
 Serviços:
 ![App Screenshot](IMG/IMG3.png)
 
-![App Screenshot](IMG/IMG3.png)
+![App Screenshot](IMG/IMG4.png)
 
 Missão Visão e Valor:
 ![App Screenshot](IMG/IMG2.png)
