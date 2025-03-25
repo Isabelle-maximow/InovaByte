@@ -13,16 +13,18 @@ Seus serviços incluem cloud computing, inteligência artificial, análise de da
 
 
 ## Mais do Projeto
-Página Inicial ao entrar so site.
+Página Inicial ao entrar so site:
 ![App Screenshot](IMG/IMG2.png)
 
-Serviços.
+Serviços:
+![App Screenshot](IMG/IMG3.png)
+
+![App Screenshot](IMG/IMG3.png)
+
+Missão Visão e Valor:
 ![App Screenshot](IMG/IMG2.png)
 
-Missão Visão e Valor.
-![App Screenshot](IMG/IMG2.png)
-
-Cadastrar-se 
+Cadastrar-se: 
 ![App Screenshot](IMG/CADASTRE-SE.png)
 
 
