@@ -4,7 +4,7 @@ A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção 
 
 
 
-![Logo](logoInovabyte.png)
+![Logo](logo inovabyte.png)
 
 
 ##  SERVIÇOS
