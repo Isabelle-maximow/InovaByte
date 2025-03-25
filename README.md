@@ -55,6 +55,6 @@ Acesse aqui nossa documentação:
 
 - [@Isabelle-maximow](https://github.com/Isabelle-maximow)
 - Julia Lopes
-- Hadassaq Honorato
-- Gustavo Albuquerque
+- Hadassa Honorato
+- [@gustaalbuquerq](https://github.com/gustaalbuquerq)
 - Caua Nogueira 
