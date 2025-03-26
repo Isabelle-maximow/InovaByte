@@ -12,24 +12,6 @@ A Inovabyte foi criada para auxiliar empresas de diversos segmentos na adoção 
 Seus serviços incluem cloud computing, inteligência artificial, análise de dados e cibersegurança, impulsionando a transformação digital e garantindo maior eficiência operacional. Com a aplicação dessas soluções, as empresas se tornam mais competitivas e preparadas para os desafios do mercado.
 
 
-## Mais do Projeto
-### Página Inicial ao entrar so site:
-![App Screenshot](IMG/IMG2.png)
-
-### Serviços:
-![App Screenshot](IMG/IMG3.png)
-
-![App Screenshot](IMG/IMG4.png)
-
-### Sobre Nós:
-![App Screenshot](IMG/IMG5.png)
-
-
-### Missão Visão e Valor:
-![App Screenshot](IMG/IMG6.png)
-
-### Cadastrar-se: 
-![App Screenshot](IMG/CADASTRE-SE.png)
 
 
 ## 🚀 Processos para a construção
@@ -61,11 +43,11 @@ Atualmente, o site não está hospedado online. Para acessá-lo, siga os passos 
 ### **1️⃣ Clone o Repositório**  
 Abra o terminal e execute:  
 ```bash
-git clone https://github.com/seu-usuario/ocr-brazcubas.git
-cd ocr-brazcubas
+git clone [https://github.com/Isabelle-maximow/InovaByte.git]
+cd InovaByte
 ```
 
-## Feedback
+## 📞 Feedback
 Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l.ferreira6@aluno.senai
 
 
@@ -82,3 +64,22 @@ Acesse aqui nossa documentação:
 - Hadassa Honorato
 - [@gustaalbuquerq](https://github.com/gustaalbuquerq)
 - Caua Nogueira 
+
+## Mais do Projeto
+### Página Inicial ao entrar so site:
+![App Screenshot](IMG/IMG2.png)
+
+### Serviços:
+![App Screenshot](IMG/IMG3.png)
+
+![App Screenshot](IMG/IMG4.png)
+
+### Sobre Nós:
+![App Screenshot](IMG/IMG5.png)
+
+
+### Missão Visão e Valor:
+![App Screenshot](IMG/IMG6.png)
+
+### Cadastrar-se: 
+![App Screenshot](IMG/CADASTRE-SE.png)
