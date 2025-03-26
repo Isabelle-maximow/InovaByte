@@ -60,7 +60,10 @@ Atualmente, o site não está hospedado online. Para acessá-lo, siga os passos 
 
 ### **1️⃣ Clone o Repositório**  
 Abra o terminal e execute:  
-git clone (https://github.com/Isabelle-maximow/InovaByte.git)
+```bash
+git clone https://github.com/seu-usuario/ocr-brazcubas.git
+cd ocr-brazcubas
+```
 
 ## Feedback
 Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l.ferreira6@aluno.senai
