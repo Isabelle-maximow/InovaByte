@@ -529,64 +529,66 @@ footer {
 }
 
 .telas {
+    flex: 1;
     display: flex; /* Alinha os elementos em linha */
-    gap: 40px; 
+    gap: 40px; /* Define o espaçamento entre as colunas */
     padding: 30px;
-    justify-content: center; 
+    justify-content: center; /* Centraliza os itens horizontalmente */
     flex-wrap: wrap; /* Permite quebra de linha, se necessário */
     text-align: left;
     background-color: rgba(0, 0, 0, 0.89);
-    display: flex; 
+    display: flex; /* Alinha os elementos em linha */
+    align-items: center;
+    height: 100px; 
 }
 .coluna-servicos {
-    display: flex;
     flex-direction: column; /* Alinha o título e a coluna verticalmente */
-    align-items: center; 
+    align-items: center; /* Centraliza o título e a coluna */
 }
 .coluna-contato {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: column; /* Alinha o título e a coluna verticalmente */
+    align-items: center; /* Centraliza o título e a coluna */
 }
 .cabecalho {
     font-family: "Open Sans", serif;
     font-size: 18px;
     font-weight: bold;
     color: white;
-    margin-bottom: 20px; 
-    text-align: center;
+    margin-bottom: 20px; /* Espaçamento entre o título e a primeira coluna */
+    text-align: center; /* Centraliza o título */
 }
 
 .endereço {
     text-align: left;
     padding: 20px;
     border-radius: 8px;
-    width: 300px; 
+    width: 300px; /* Define largura fixa */
     font-family: "Open Sans", serif;
-    color: white; 
-    border: 2px solid #0a0a23;
+    color: white;
     flex-shrink: 0; /* Impede que a div encolha */
 }
 
 .telas_borda {
+    font-size: 18px;
     text-align: left;
     background: #1e0064;
     padding: 30px;
     gap: 30px;
     border-radius: 8px;
-    width: 300px; 
-    min-height: 150px; 
+    width: 350px; /* Define uma largura fixa */
+    height: 180px; /* Define uma altura mínima */
     font-family: "Open Sans", serif;
     color: white;
     border: 2px solid #0a0a23;
     display: flex;
-    align-items: center;
-    justify-content: center; 
-    text-align: center; 
-    line-height: 1.8; /* Aumenta o espaçamento entre as linhas */
+    align-items: center; /* Centraliza verticalmente o conteúdo */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+    text-align: center; /* Center-aligns the text */
+    line-height: 1.8;
 }
 .telas_borda > * {
-    flex: 1; /* Faz os elementos filhos ocuparem o espaço disponível */
+    flex: 1;
 }
 .icone_email{
     position: relative;
@@ -600,9 +602,12 @@ footer {
 }
 
 .footer-text {
-    text-align: center; 
-    margin-top: 20px; 
-    font-size: 14px; 
+    justify-content: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
     color: white; 
     font-family: "Open Sans", serif;
 }
@@ -612,7 +617,10 @@ footer {
 }
 
 .textos {
-    margin-bottom: 38px;
+    margin-bottom: 30px;
     text-align: left;
     line-height: 2; /* Aumenta o espaçamento entre as linhas */
+}
+.coluna-servicos{
+    font-size: 20px;
 }
