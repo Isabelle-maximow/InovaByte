@@ -61,9 +61,9 @@ Acesse aqui nossa documentação:
 
 - [@Isabelle-maximow](https://github.com/Isabelle-maximow)
 - Julia Lopes
-- Hadassa Honorato
+- Hadassa Honorato 
 - [@gustaalbuquerq](https://github.com/gustaalbuquerq)
-- Caua Nogueira 
+- [@Caua Nogueira] (https://github.com/canogueira)
 
 ## Mais do Projeto
 ### Página Inicial ao entrar so site:
