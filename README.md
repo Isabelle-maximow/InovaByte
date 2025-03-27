@@ -54,7 +54,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l
 ## 📜 Documentação
 
 Acesse aqui nossa documentação:
-[Documentação]((https://drive.google.com/file/d/1obF13tdj0JNCX7Ncu8HKyjJiMn5zjGOf/view))
+[Documentação](https://drive.google.com/file/d/1obF13tdj0JNCX7Ncu8HKyjJiMn5zjGOf/view)
 
 
 ## 👥Autores
