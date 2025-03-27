@@ -37,9 +37,8 @@ Durante o processo, conseguimos compreender melhor como cada uma dessas ferramen
 **Conclusão:** Ao criar o site, percebemos o quanto é importante a integração entre essas ferramentas e tecnologias. HTML e CSS formam a base, Git e GitHub garantem um bom controle de versão e colaboração, enquanto o JavaScript acrescenta interatividade e dinamicidade. Cada um desses elementos desempenha um papel essencial no desenvolvimento web, e o aprendizado prático foi fundamental para entender seu funcionamento no mundo real.
 
 ## 📌 Como Acessar o Projeto  
-
-Atualmente, o site não está hospedado online. Para acessá-lo, siga os passos abaixo para rodá-lo localmente em sua máquina.  
-
+ -  O projeto está hospedado por meio do GitHub Pages, acesse aqui: https://isabelle-maximow.github.io./InovaByte/
+ - Você também pode clonar nosso Repositório:
 ### **1️⃣ Clone o Repositório**  
 Abra o terminal e execute:  
 ```bash
