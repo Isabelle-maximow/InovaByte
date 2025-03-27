@@ -63,7 +63,8 @@ Acesse aqui nossa documentação:
 - Julia Lopes
 - Hadassa Honorato 
 - [@gustaalbuquerq](https://github.com/gustaalbuquerq)
-- [@canogueira] (https://github.com/canogueira)
+- [@canogueira](https://github.com/canogueira)) 
+
 
 ## Mais do Projeto
 ### Página Inicial ao entrar so site:
