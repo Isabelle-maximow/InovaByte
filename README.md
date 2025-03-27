@@ -51,9 +51,9 @@ cd InovaByte
 Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l.ferreira6@aluno.senai
 
 
-## 📜 Documentação
+## 📜 Documentação - Gráfico de Gantt
 
-Acesse aqui nossa documentação:
+Acesse aqui o nosso Gráfico de Gantt:
 [Documentação](https://drive.google.com/file/d/1obF13tdj0JNCX7Ncu8HKyjJiMn5zjGOf/view)
 
 
@@ -71,8 +71,6 @@ Acesse aqui nossa documentação:
 ![App Screenshot](IMG/IMG2.png)
 
 ### Serviços:
-![App Screenshot](IMG/IMG3.png)
-
 ![App Screenshot](IMG/IMG4.png)
 
 ### Sobre Nós:
