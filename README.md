@@ -54,7 +54,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de  isabelle.l
 ## 📜 Documentação
 
 Acesse aqui nossa documentação:
-[Documentação](file:///C:/Users/24271526/Documents/Gr%C3%A1fico%20de%20Gantt%20simples.pdf)
+[Documentação]((https://drive.google.com/file/d/1obF13tdj0JNCX7Ncu8HKyjJiMn5zjGOf/view))
 
 
 ## 👥Autores
