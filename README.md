@@ -60,7 +60,7 @@ Acesse aqui nossa documentação:
 ## 👥Autores
 
 - [@Isabelle-maximow](https://github.com/Isabelle-maximow)
-- Julia Lopes
+- [@Julia Lopes Da Silva Camelo](https://github.com/JLSCamelo)
 - Hadassa Honorato 
 - [@gustaalbuquerq](https://github.com/gustaalbuquerq)
 - [@canogueira](https://github.com/canogueira)
