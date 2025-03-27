@@ -61,7 +61,7 @@ Acesse aqui nossa documentação:
 
 - [@Isabelle-maximow](https://github.com/Isabelle-maximow)
 - [@Julia Lopes Da Silva Camelo](https://github.com/JLSCamelo)
-- Hadassa Honorato 
+- [@Hadassa Honorato](https://github.com/Hadassah77)
 - [@gustaalbuquerq](https://github.com/gustaalbuquerq)
 - [@canogueira](https://github.com/canogueira)
 
