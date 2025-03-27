@@ -1,0 +1,17 @@
+	vfat
+	exfat
+	ntfs
+	refs
+nodev	smbfs
+nodev	nfs
+nodev	netapp
+	iso9660
+	udf
+nodev	csc-cache
+nodev	unixfs
+nodev	mvfs
+nodev	cifs
+nodev	nwfs
+nodev	ncfsd
+nodev	afs
+nodev	prlfs

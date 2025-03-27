@@ -1,0 +1,23 @@
+Character devices:
+  1 mem
+  3 cons
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+  9 st
+ 13 misc
+ 14 sound
+117 ttyS
+136 tty
+
+Block devices:
+  2 fd
+  8 sd
+ 11 sr
+ 65 sd
+ 66 sd
+ 67 sd
+ 68 sd
+ 69 sd
+ 70 sd
+ 71 sd
