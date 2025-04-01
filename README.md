@@ -39,7 +39,6 @@ Durante o processo, conseguimos compreender melhor como cada uma dessas ferramen
 ## 📌 Como Acessar o Projeto  
  -  O projeto está hospedado por meio do GitHub Pages, acesse aqui: https://isabelle-maximow.github.io./InovaByte/
  - Você também pode clonar nosso Repositório:
-### **1️⃣ Clone o Repositório**  
 Abra o terminal e execute:  
 ```bash
 git clone [https://github.com/Isabelle-maximow/InovaByte.git]
